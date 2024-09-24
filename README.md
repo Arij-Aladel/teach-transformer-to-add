@@ -4,12 +4,3 @@ The subsequent version of the code, which is a refined variant aimed to instruct
 ## Citation
 
 
-```bibtex
-@inproceedings{al2023samdit,
-  title={SAMDIT: Systematic Study of Adding Memory to Divided Input in the Transformer to Process Long Documents},
-  author={Al Adel, Arij},
-  booktitle={International Conference on Neuroinformatics},
-  pages={93--101},
-  year={2023},
-  organization={Springer}
-}
